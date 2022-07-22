@@ -1,6 +1,6 @@
-import "./app.css";
-import { useState } from "react";
-import logo from "./assets/bonny2.png";
+import './app.css';
+import { useState } from 'react';
+import logo from './assets/bonny2.png';
 
 export const App = () => {
   const [counter, setCounter] = useState(0);
